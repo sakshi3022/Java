@@ -35,7 +35,7 @@ Programming -> Writing instructions to the computer to get the task done.
 Programming Language -> It is a languaguare used by programmers to communicate with the computer
 
 
-Binary Language ->
+Binary Language -
 
 
 Assembler ->
